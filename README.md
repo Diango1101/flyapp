@@ -6,7 +6,8 @@
 无论是个人、团队、或是企业，都能够用码云实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
 
 #### 软件架构
-软件架构说明
+SDK26
+AS开发    使用内置数据库sqlite简单实现   只提供管理员账号进行数据修改
 
 
 #### 安装教程
